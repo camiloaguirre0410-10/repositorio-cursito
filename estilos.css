@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+
+        margin: 20px;
+        margin-top: 20px;
+            color: white;
+            background-color: magenta;
+            padding: 10px;
+            border-radius: 20px;
+            border: 6px solid black;
+            height: 100px;
+            width: 400px;
+            text-align: center;
+            font-size: 30px;
+            
+        }
+
+
+.color-random{
+    color: black;
+    background-color: yellow;
+    border: 2px solid black;
+
+    width: 300px;
+    overflow: hidden;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+
+
+
+body{
+    background-color: lightblue;
+    font-family: verdana;
+}
+p{
+    
+    font-style: italic;
+            
+    color: black;
+    
+    
+}
+
+.h1_1{
+    
+    text-align: center;
+}
+
+
+.h1_2{
+    text-align: Right;
+}
+
+
+.h1_3{
+    text-align: left;
+}
+
+
+.h1_4{
+    text-align:  justify;
+}
+
+.color-prueba{
+    color: red;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.cajita            {
+   background-color: red;
+   height: 40px;
+   width: 100%;
+   
+   
+}
+
+.cajita1{
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 10px;
+   float: left;
+}
+
+.cajita2{
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 10px;
+}
+
+.cajita3{
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 10px;
+}
+
+.cajita4{
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 10px;
+}
+
+.cajita5{
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 10px;
+}   
+
+.articulo{
+    border: 2px solid black;
+}
